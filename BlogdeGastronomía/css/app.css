@@ -1,0 +1,56 @@
+.gastronomia-body{
+  background-image:url(../img/imagenfondo.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.contenedor {
+	background-color: sandybrown;
+	opacity: 0.85;
+}
+
+#encabezado {
+	color: white;
+	border-right: solid 2px white;
+  padding: 20px;
+}
+
+.nombre {
+	text-align: left;
+}
+
+.slogan {
+	text-align: right;
+}
+
+.secciones {
+	border-top: solid 2px white;
+  padding-top: 20px;
+}
+
+#busqueda {
+	background-color: blanchedalmond;
+  padding: 10px;
+  border: solid 2px white;
+}
+
+.contenido {
+	background-color: khaki;
+  padding: 10px;
+  margin-bottom: 30px;
+  border: solid 2px white;
+}
+
+.comentarios {
+	border-top: solid 2px white;
+  padding-top: 20px;
+}
+
+.usuario {
+	background-color: khaki;
+  margin-bottom: 20px;
+  border: solid 2px white;
+}

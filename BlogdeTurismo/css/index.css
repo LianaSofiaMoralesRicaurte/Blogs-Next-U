@@ -1,0 +1,33 @@
+body{
+background-image: url(../img/fondo.JPG);
+background-size: cover;
+background-attachment: fixed;
+background-position: center top;
+}
+.barra{
+height: 18vh;
+width: 100%;
+background:rgba(40,38,89,0.80);
+position: fixed;
+z-index: -1;
+}
+.logo-img{
+  width: 50%;
+}
+.redes-sociales{
+  width: 70%;
+}
+.publicacion{
+  width:40%;
+  float: left;
+  margin-right: 2%;
+}
+.circle{
+  width: 60%;
+}
+#borde{
+  padding: 10%
+}
+#margen{
+  padding: 1%;
+}
